@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbff007d-7227-4dea-ad1a-e0a5a6c5518a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Dto/PaginationResult.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Dto/CollectionResponse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B4EF600F-4A59-4FE2-865A-8F97F915FB9D/dc/dbb3ca64/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestAPI.Core/Models/CaoStatusClienteComplemento.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Profiles/MappingProfile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E407D4BA-C36C-45DA-982B-FD389A659F31/52/149bfbf1/IMapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestAPI.Core/Models/CaoAtividadeConsultor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/ConsultantDomainService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/Dto/IncomingInputDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/IConsultantDomainService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/Dto/ConsultantDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/Dto/IncomingDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Domain/Services/Consultants/Dto/ConsultantBaseDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/Contracts/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/Contracts/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/Contracts/IUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/RepositoryImpl/SqlRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Web/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/RepositoryImpl/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.DataAccess/UnitOfWorkImpl/SqlUnitOfWork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.EntityFramework/Context/AgenceDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AgenceIntro.Web/Controllers/ConsultantsController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AgenceIntro.Web/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UtIAmvH7vHhkgDKhRfTLHa5M11" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PublishAPI" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.AgaeceTest">
+    <configuration name="Publish AgenceIntro.Web to folder (1)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish target_folder="$PROJECT_DIR$/../PublishAPI" target_framework="netcoreapp2.2" uuid_high="9213745001790132195" uuid_low="-7531068088489984915" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish AgenceIntro.Web to folder (2)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/../PublishAPI" target_framework="netcoreapp2.2" uuid_high="9213745001790132195" uuid_low="-7531068088489984915" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish AgenceIntro.Web to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish self_contained="true" target_folder="$PROJECT_DIR$/../PublishAPI" target_framework="netcoreapp2.2" uuid_high="9213745001790132195" uuid_low="-7531068088489984915" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AgaeceTest" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AgenceIntro.Web/bin/Debug/netcoreapp2.2/AgenceIntro.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AgenceIntro.Web" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AgenceIntro.Web/AgenceIntro.Web.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AgenceIntro.Web/bin/Debug/netcoreapp2.2/AgenceIntro.Web.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AgenceIntro.Web" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AgenceIntro.Web/AgenceIntro.Web.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.AgaeceTest" />
+      <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder" />
+      <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder (1)" />
+      <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder (2)" />
+        <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder (1)" />
+        <item itemvalue="Publish to folder.Publish AgenceIntro.Web to folder" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbff007d-7227-4dea-ad1a-e0a5a6c5518a" name="Default Changelist" comment="" />
+      <created>1576169323621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576169323621</updated>
+      <workItem from="1576169324989" duration="4888000" />
+      <workItem from="1576190620413" duration="5804000" />
+      <workItem from="1576272492053" duration="689000" />
+      <workItem from="1576273230759" duration="622000" />
+      <workItem from="1576274313281" duration="2883000" />
+      <workItem from="1576330839245" duration="5788000" />
+      <workItem from="1576443546814" duration="4271000" />
+      <workItem from="1576505613844" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../agence-intro-ui-master/node_modules/.staging/karma-72d4a068/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
